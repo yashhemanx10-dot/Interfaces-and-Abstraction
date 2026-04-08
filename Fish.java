@@ -1,0 +1,20 @@
+package Task3;
+
+public class Fish extends Animal implements Swimmable {
+
+    public Fish(String name,int age){
+        super(name,"Fish",age);
+    }
+
+    @Override
+    public void makeSound(){
+        System.out.println(name + "is clicking");
+    }
+
+    @Override
+    public void swim() {
+        System.out.println(name + " is swimming in the lake!");
+    }
+
+
+}
