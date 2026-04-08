@@ -75,5 +75,6 @@ Bubbles is a 5 year old Fish
 ---
 
 ## Author
+**Hemant Bheekarry**
 
 Developed as part of university programming assignments.
